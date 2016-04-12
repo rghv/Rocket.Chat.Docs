@@ -8,4 +8,4 @@ If you are not using Docker, follow these instructions:
 
 - For [CentOS](https://github.com/rghv/Rocket.Chat.Docs/blob/master/3.%20Installing%20and%20Updating%2F2.%20Deployment%20Options%2FCentOS%207.md)
 
-If you are using Docker, follow thesse instructions: [Deploy Rocket.Chat on Linux with Docker](https://github.com/RocketChat/Deploy.to.Cloud/tree/master/GenericLinux)
+If you are using Docker, follow thesse instructions: [Deploy Rocket.Chat on Linux with Docker](https://github.com/rghv/Rocket.Chat.Docs/blob/master/3.%20Installing%20and%20Updating/3.%20Using%20Docker/Docker%20-%20Nginx%20SSL%20-%20Hubot.md)
