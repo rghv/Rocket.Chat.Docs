@@ -4,8 +4,8 @@ Digital Ocean offers plain jane KVM VPS backed by SSDs.  There needs to be no sp
 
 If you are not using Docker, follow these instructions: 
 
-- Use Ubuntu 14.x LTS VPS instance, for ease of use. For [Ubuntu](https://github.com/rghv/Rocket.Chat.Docs/blob/master/3.%20Installing%20and%20Updating%2F2.%20Deployment%20Options%2FUbuntu.md). 
+- Use Ubuntu 14.x LTS VPS instance, for ease of use. For [Ubuntu](Ubuntu.md).
 
-- For [CentOS](https://github.com/rghv/Rocket.Chat.Docs/blob/master/3.%20Installing%20and%20Updating%2F2.%20Deployment%20Options%2FCentOS%207.md)
+- For [CentOS](CentOS%207.md)
 
-If you are using Docker, follow thesse instructions: [Deploy Rocket.Chat on Linux with Docker](https://github.com/rghv/Rocket.Chat.Docs/blob/master/3.%20Installing%20and%20Updating/3.%20Using%20Docker/Docker%20-%20Nginx%20SSL%20-%20Hubot.md)
+If you are using Docker, follow thesse instructions: [Deploy Rocket.Chat on Linux with Docker](../3.%20Using%20Docker/Docker%20-%20Nginx%20SSL%20-%20Hubot.md)
